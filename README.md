@@ -5,7 +5,7 @@
 This project automates credit card and UPI fraud detection for a regional bank. It identifies suspicious transactions using Python statistical anomalies (Z-Score), stores flagged records in PostgreSQL, and visualizes fraud hotspots and hourly spikes in Power BI.
 
 # Tech Stack
-- **Language:** Python (Pandas, NumPy, Scipy)
+- **Language:** Python (Pandas, NumPy, Scipy, matplotlib, seaborn)
 - **Database:** PostgreSQL / SQL
 - **BI Tool:** Power BI Desktop
 
