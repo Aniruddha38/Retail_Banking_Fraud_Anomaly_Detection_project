@@ -1,4 +1,4 @@
-# Retail-Banking-Fraud-Anomaly_Detection_project
+# Retail_Banking_Fraud_Anomaly_Detection_project
 # Retail Banking Fraud & Anomaly Detection
 
 # Project Overview
